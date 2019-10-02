@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Lista definitiva</title>
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<h1>LISTA GANADORA</h1>
+		<ol>
+			<li><img src="/Users/pacoroncerogonzalez/caratulas peliculas prueba prework/El-padrino.jpg" alt="El Padrino" title="El Padrino" width="50"><a href="https://www.imdb.com/title/tt0068646/?ref_=nv_sr_1?ref_=nv_sr_1"> El Padrino (1972)</a></li><br>
+			<li><img src="/Users/pacoroncerogonzalez/caratulas peliculas prueba prework/la-lista-de-schindler.jpg" alt="La lista de Schindler" title="La lista de Schindler" width="50"><a href="https://www.imdb.com/title/tt0108052/?ref_=fn_al_tt_1"> La lista de Schindler (1993)</a></li><br>
+			<li><img src="/Users/pacoroncerogonzalez/caratulas peliculas prueba prework/el_padrino_parte_II.jpg" alt="El Padrino II" title="El Padrino II" width="50"><a href="https://www.imdb.com/title/tt0071562/?ref_=fn_al_tt_1"> El Padrino parte II (1974)</a></li><br>
+			<li><img src="/Users/pacoroncerogonzalez/caratulas peliculas prueba prework/el-sexto-sentido.jpg" alt="El sexto sentido" title="El sexto sentido" width="50"><a href="https://www.imdb.com/title/tt0167404/?ref_=fn_al_tt_1">El sexto sentido (1999)</a> </li><br>
+			<li><img src="/Users/pacoroncerogonzalez/caratulas peliculas prueba prework/interstellar.jpg" alt="Interstellar" title="Interstellar" width="50"> Interstellar (2014)</li>
+		</ol>
+	</body>
+</html>
